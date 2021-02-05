@@ -2,11 +2,11 @@
 	{
 		"museumName": "Ashmolean Museum Oxford",
 		"databaseType": 0,
-		"databaseURL": "asdfg"
+		"databaseURL": "https://raw.githubusercontent.com/HaidarATN/EliasMuesumDatabase/main/Noraml_Ashmolean%20Museum%20Oxford%20(1).json"
 	},
 	{
 		"museumName": "Ashmolean Museum",
 		"databaseType": 1,
-		"databaseURL": "asdfg"
+		"databaseURL": "https://raw.githubusercontent.com/HaidarATN/EliasMuesumDatabase/main/The%20Ashmolean%20Museum%20(1).csv"
 	}
 ]
